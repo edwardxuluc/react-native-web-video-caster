@@ -1,0 +1,23 @@
+
+{
+  "name": "react-native-web-video-caster",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "web video caster",
+    "react native",
+    "android",
+    "react native web video caster",
+    "chrome cast"
+  ],
+  "author": "Edward xuluc",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
